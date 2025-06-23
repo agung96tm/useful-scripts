@@ -9,6 +9,7 @@ Useful for keeping your local repo clean and relevant.
 ## 🚀 Usage
 
 ```bash
+cp delete_old_branches.sh /path/to/your/project/delete_old_branches.sh
 ./delete_old_branches.sh "<time>" ["prefix1 prefix2 ..."]
 ```
 
