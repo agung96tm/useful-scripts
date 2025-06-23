@@ -8,7 +8,7 @@ This repo contains small, focused utilities — mostly Bash-based — that solve
 
 ## 📚 Available Scripts
 
-### 1. [`delete_old_branches`](delete_old_branches/README.md)
+### 1. [`delete_old_branches`](delete_old_branches)
 
 🧹 Clean up old local Git branches by commit age and prefix.
 

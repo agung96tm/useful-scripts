@@ -1,4 +1,4 @@
-# 🧹 Git Branch Cleanup Script
+# 🧹delete_old_branches
 
 This script helps you safely delete **old local Git branches** based on **last commit age** and **branch name prefix**.
 
@@ -40,6 +40,8 @@ Useful for keeping your local repo clean and relevant.
 | `1 year`   | 1 calendar year ago   |
 | `2 years`  | 2 calendar years ago  |
 
+
+## 📦 Install Globally
 
 ```bash
 # Copy and rename the script to remove .sh extension
